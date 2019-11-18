@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2014 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.wearable.flashlight"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+22-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+23        android:minSdkVersion="18"
+23-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+24        android:targetSdkVersion="22" />
+24-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:15-44
+25
+26    <uses-feature android:name="android.hardware.type.watch" />
+26-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:22:5-64
+26-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:22:19-61
+27
+28    <application
+28-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:24:5-38:19
+29        android:debuggable="true"
+30        android:icon="@drawable/ic_launcher"
+30-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:26:13-49
+31        android:label="@string/app_name"
+31-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:25:13-45
+32        android:testOnly="true"
+33        android:theme="@android:style/Theme.DeviceDefault" >
+33-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:27:13-63
+34        <activity
+34-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:28:9-37:20
+35            android:name="com.example.android.wearable.flashlight.MainActivity"
+35-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:28:19-47
+36            android:configChanges="orientation|keyboardHidden"
+36-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:31:19-69
+37            android:label="@string/app_name"
+37-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:29:19-51
+38            android:launchMode="singleTop" >
+38-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:30:19-49
+39            <intent-filter>
+39-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:32:13-36:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:33:17-69
+40-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:33:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:34:17-77
+42-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:34:27-74
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:35:17-76
+43-->E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:35:27-73
+44            </intent-filter>
+45        </activity>
+46
+47        <uses-library
+47-->[com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:10:9-12:40
+48            android:name="com.google.android.wearable"
+48-->[com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:11:13-55
+49            android:required="false" />
+49-->[com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:12:13-37
+50
+51        <activity
+51-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+52            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+52-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+53            android:exported="false"
+53-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+55
+56        <meta-data
+56-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+57            android:name="com.google.android.gms.version"
+57-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+58            android:value="@integer/google_play_services_version" />
+58-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+59        <meta-data
+59-->[com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:23:9-25:38
+60            android:name="android.support.VERSION"
+60-->[com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:24:13-51
+61            android:value="26.0.2" />
+61-->[com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:25:13-35
+62    </application>
+63
+64</manifest>

@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\34fce8415e56effe7bc940d47476666c\play-services-wearable-11.8.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\17b5c343234a510f7b8a20a8f8b89c96\play-services-tasks-11.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\d262a112b1467fd95227ac36bde30c33\play-services-wearable-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8afc576fb67ee74358e0034f0a7f1605\play-services-base-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\a5f1c44e24327f868825f104848303fe\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\0598e553a74433ba13eae51bdffbe30d\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:18:11-60
+	android:versionName
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\34fce8415e56effe7bc940d47476666c\play-services-wearable-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\34fce8415e56effe7bc940d47476666c\play-services-wearable-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\17b5c343234a510f7b8a20a8f8b89c96\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\17b5c343234a510f7b8a20a8f8b89c96\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\d262a112b1467fd95227ac36bde30c33\play-services-wearable-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\d262a112b1467fd95227ac36bde30c33\play-services-wearable-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8afc576fb67ee74358e0034f0a7f1605\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8afc576fb67ee74358e0034f0a7f1605\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\a5f1c44e24327f868825f104848303fe\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\a5f1c44e24327f868825f104848303fe\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\0598e553a74433ba13eae51bdffbe30d\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\0598e553a74433ba13eae51bdffbe30d\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+	android:targetSdkVersion
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:15-44
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:20:5-47
+		INJECTED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:22:19-61
+application
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\34fce8415e56effe7bc940d47476666c\play-services-wearable-11.8.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\34fce8415e56effe7bc940d47476666c\play-services-wearable-11.8.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\17b5c343234a510f7b8a20a8f8b89c96\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\17b5c343234a510f7b8a20a8f8b89c96\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\d262a112b1467fd95227ac36bde30c33\play-services-wearable-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\d262a112b1467fd95227ac36bde30c33\play-services-wearable-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8afc576fb67ee74358e0034f0a7f1605\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8afc576fb67ee74358e0034f0a7f1605\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\a5f1c44e24327f868825f104848303fe\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\a5f1c44e24327f868825f104848303fe\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\0598e553a74433ba13eae51bdffbe30d\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\0598e553a74433ba13eae51bdffbe30d\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:25:13-45
+	android:icon
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:26:13-49
+	android:theme
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:27:13-63
+activity#com.example.android.wearable.flashlight.MainActivity
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:29:19-51
+	android:launchMode
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:30:19-49
+	android:configChanges
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:31:19-69
+	android:name
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:34:27-74
+category#android.intent.category.DEFAULT
+ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from E:\android-Flashlight-master\Wearable\src\main\AndroidManifest.xml:35:27-73
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.2.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\037d1be00e99e3d6eb4116b84ac18ee8\wearable-2.2.0\AndroidManifest.xml:11:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\c8bf09e18c6976a8609e096016cbfbf9\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\aa35eaafec176d3d759c93993af92ca5\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\8bdd18849322ed2fbb5a425d2b2bf316\percent-26.0.2\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Ram\.gradle\caches\transforms-2\files-2.1\3236d2035d30107b7779ae28b3ae6895\recyclerview-v7-26.0.2\AndroidManifest.xml:24:13-51
